@@ -27,9 +27,9 @@ array.push(4);
 console.log(array);
 */
 /*
-PRINT VARIABLES INSIDE STRING
-var a="Hello";
-var b="World";
+PRINT VARIABLaaaES INSIDE STRING
+var a="Helloaaa";
+var b="Worldaaaa";
 var c=a+" "+b;
 console.log(c);
 
@@ -59,7 +59,7 @@ console.log(hobbit,wizard,ranger);
 */
 
 /*
-Object DESCTRUCTION ASSIGMENT
+Object DESCTRUCTIaaaaON ASSIGMENT
 let magical=false;
 let power=2;
 
