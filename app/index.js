@@ -17,8 +17,8 @@
 */
 
 /*
-CONST IS LIKE FINAL
-  const a=5;
+CONST IasdLIKE FINAL
+  const a=a5;
   a=5-3;
   console.log(a);
 
